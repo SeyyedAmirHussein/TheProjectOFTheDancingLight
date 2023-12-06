@@ -1,8 +1,8 @@
 // The Project OF The Dancing Light .
 
-// The Main Code OF The Project OF The Dancing Light . .C
-
 // In this program, We Produce a Light Dance by Utilizing Three LEDs .
+
+// The Main Code OF The Project OF The Dancing Light . .INO .
 
 
 
